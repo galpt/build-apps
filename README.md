@@ -2,10 +2,6 @@
 
 ### Please give the repo a :star:
 
-| Stars | Need help? |
-|-------|---------|
-| [![Stars](https://img.shields.io/github/stars/DokiTeam/build-apps.svg?style=flat)](https://github.com/DokiTeam/build-apps) | [![Discord](https://img.shields.io/discord/1435615296202477581.svg?label=discord&labelColor=7289da&color=2c2f33&style=flat)](https://discord.gg/PTd2bYgz9m) |
-
 ### Usage
 **👉 Please follow [this document](https://github.com/DokiTeam/build-apps/tree/global/GUIDE.md) to know how this repository works.**
 
@@ -14,7 +10,7 @@
 
 -----------------
 
-### Doki (Sourcce code)
+### Doki (Source code)
 
 https://github.com/DokiTeam/Doki
 
